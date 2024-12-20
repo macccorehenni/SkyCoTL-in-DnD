@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Flexoki",
+  "cssTheme": "Creme brulee",
   "interfaceFontFamily": "Baskerville,Times New Roman",
-  "textFontFamily": "Andale Mono,Courier New"
+  "textFontFamily": "Andale Mono,Courier New",
+  "accentColor": "#b1dd8b"
 }

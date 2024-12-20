@@ -104,5 +104,6 @@ They tend to want to face danger without thought, which sometimes lands them in 
 - Sigil: The Sigil of the Trailblazer (an flame on an circle)
 - Starting equipment (in addition to the basics in the [[Skychild#DnD particulars|general list of equipment]]: an amulet of their deity, which depends on which realm they came from or when they were a Moth
 - Hit dice: (2d4 + 1d6)
-## 
+## Forest
+### Mask
 
