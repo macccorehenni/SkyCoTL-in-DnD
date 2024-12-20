@@ -132,9 +132,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Test.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Test"
             }
           }
         ]
@@ -154,6 +156,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0128ca9f808ad241",
-  "lastOpenFiles": []
+  "active": "63b1c150aa43ff7d",
+  "lastOpenFiles": [
+    "Test.md"
+  ]
 }
