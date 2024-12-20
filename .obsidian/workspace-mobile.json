@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Skychild.md",
+                "file": "Creatures/Crab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skychild"
+              "title": "Crab"
             }
           }
         ]
@@ -105,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Creatures/Skychild.md",
+            "file": "Creatures/Crab.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Creatures/Skychild.md",
+            "file": "Creatures/Crab.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Creatures/Skychild.md"
+            "file": "Creatures/Crab.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -158,10 +158,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8963449ce554768",
+  "active": "55f3c0575ded9b33",
   "lastOpenFiles": [
-    "Tags/Lol.md",
     "Creatures/Skychild.md",
+    "Creatures/Crab.md",
+    "Tags/Lol.md",
     "Creatures/Creatures.md",
     "Vault.md",
     "Creatures/Skychild_dnd.pdf",
