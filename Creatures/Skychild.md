@@ -5,25 +5,6 @@ aliases:
   - Skychild
 sticker: lucide//bird
 ---
-**Contents**
-
-1. [Common skills and descriptions](#Common%20skills%20and%20descriptions)
-	1. [Masks](#Masks)
-	1. [Skychildren and their relationship to the Overseer and the Forgotten Realms](#Skychildren%20and%20their%20relationship%20to%20the%20Overseer%20and%20the%20Forgotten%20Realms)
-	1. [Capes and stars](#Capes%20and%20stars)
-	1. [Languages](#Languages)
-	1. [Common abilities](#Common%20abilities)
-		1. [Flight](#Flight)
-		1. [Candle](#Candle)
-		1. [Honk](#Honk)
-	1. [DnD particulars](#DnD%20particulars)
-1. [Clans](#Clans)
-	1. [Normal](#Normal)
-		1. [Mask](#Mask)
-		1. [Bonds](#Bonds)
-		1. [Personality](#Personality)
-		1. [DnD particulars](#DnD%20particulars)
-
 # Common skills and descriptions
 ## Masks
 
@@ -103,9 +84,11 @@ The Skyspeak dialect of the Normal skykid is that of the human. Its harsh timbre
 
 - Alignment: Neutral Good
 - Sigil: The Sigil of the Trailblazer (an flame on an circle)
-- Starting equipment (in addition to the basics in the [[Skychild#DnD particulars|general list of equipment]]: an amulet of their deity, which depends on which realm they came from or when they were a Moth
+- Starting equipment (in addition to the basics in the [[Skychild#DnD particulars|general list of equipment]]): an amulet of their deity, which depends on which realm they came from or when they were a Moth
 - Hit dice: (2d4 + 1d6)
 ## Forest
 ### Mask
-The Forest clan mask is like that of the Normal skykid, but due to plenty of time in the forest, Forest skykid have scars crossing their face, suggesting vines like those found in the lower areas of their home, the Forest realm. These vines circle around a small diamond aro
+The Forest clan mask is like that of the Normal skykid, but due to plenty of time in the forest, Forest skykid have scars crossing their face, suggesting vines like those found in the lower areas of their home, the Forest realm. These vines circle around a small diamond, commonly thought of as a nose, although the Sky’s scholars have not reached an agreement on this. 
+### Bonds
+The realm of Forest is very much a wet one— the Dark Dragon, chief of the overseer’s minions, took all of the rain, which Skychildren hate, and dumped it here for the Skychildren to “enjoy”. They, thus, want to rid this realm of as much water as they can. The trees help, but only to a point. 
 
