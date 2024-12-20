@@ -1,3 +1,28 @@
+---
+tags:
+  - world-building
+aliases:
+  - Skychild
+sticker: lucide//bird
+---
+**Contents**
+
+1. [Common skills and descriptions](#Common%20skills%20and%20descriptions)
+	1. [Masks](#Masks)
+	1. [Skychildren and their relationship to the Overseer and the Forgotten Realms](#Skychildren%20and%20their%20relationship%20to%20the%20Overseer%20and%20the%20Forgotten%20Realms)
+	1. [Capes and stars](#Capes%20and%20stars)
+	1. [Languages](#Languages)
+	1. [Common abilities](#Common%20abilities)
+		1. [Flight](#Flight)
+		1. [Candle](#Candle)
+		1. [Honk](#Honk)
+	1. [DnD particulars](#DnD%20particulars)
+1. [Clans](#Clans)
+	1. [Normal](#Normal)
+		1. [Mask](#Mask)
+		1. [Bonds](#Bonds)
+		1. [Personality](#Personality)
+		1. [DnD particulars](#DnD%20particulars)
 
 # Common skills and descriptions
 ## Masks
@@ -31,7 +56,7 @@ Skyspeak is used much more often, and is considered to be the native tongue of t
 
 At any point (in or out of combat), the Skychild may expend a star[1] on their cape to fly up to 10 feet in the air vertically, then 30 feet horizontally.
 
-([1] See to learn what a star is.)
+([1] See [[Skychild#Capes and stars|Capes and stars]]to learn what a star is.)
 ### Candle
 
 At any point in time outside of combat, a skykid can raise a candle. If this is done, it satisfies two goals:
@@ -64,22 +89,20 @@ Deity: the Overseer
 # Clans
 ## Normal
 ### Mask
-As mentioned in , the Normal clan mask is the one that most Skychildren  wear. It's simple, being simply a clay mask with holes on the forehead and lower. The forehead hole is shaped like an diamond, and is where their light is kept. The holes form a basic face, and it is otherwise plain.
+As mentioned in [[Skychild#Masks|Masks]], the Normal clan mask is the one that most Skychildren  wear. It's simple, being simply a clay mask with holes on the forehead and lower. The forehead hole is shaped like an diamond, and is where their light is kept. The holes form a basic face, and it is otherwise plain.
 ### Bonds
 
 This clan is the one most likely to ascend; that is, they don't stick out as potential threats to the Overseer's minions tasked with guarding his form.
-
 Thus, they aim for this high goal— it is their life goal to go through the Eye of Eden and defeat the Overseer.
 ### Personality
 
 Being the ones aiming for the Eye, they have a brash, confident flair about themselves. That confidence fades somewhat upon *reaching* Eden, but is still quite evident.
-
 They tend to want to face danger without thought, which sometimes lands them in situations that they don't necessarily want to be in, or that are dangerous.
 ### DnD particulars
 
--   Alignment: Neutral Good
--   Sigil: The Sigil of the Trailblazer (an flame on an circle)
--   Starting equipment (in addition to the basics in the ): an amulet of their deity, which depends on which realm they came from or when they were a Moth
-
--Hit dice: (2d4 + 1d6)
+- Alignment: Neutral Good
+- Sigil: The Sigil of the Trailblazer (an flame on an circle)
+- Starting equipment (in addition to the basics in the [[Skychild#DnD particulars|general list of equipment]]: an amulet of their deity, which depends on which realm they came from or when they were a Moth
+- Hit dice: (2d4 + 1d6)
+## 
 
