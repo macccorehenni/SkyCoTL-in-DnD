@@ -34,7 +34,7 @@
   "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
-  "revealActiveFile": false,
+  "revealActiveFile": true,
   "spacesStickers": true,
   "spaceRowHeight": 29,
   "mobileSpaceRowHeight": 40,
@@ -47,8 +47,8 @@
   "deleteFileOption": "system-trash",
   "expandedSpaces": [
     "/",
-    "Creatures",
-    "//Tags"
+    "//Tags",
+    "Creatures"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -73,7 +73,7 @@
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "horizontal",
-  "spacesUseAlias": false,
+  "spacesUseAlias": true,
   "flowState": false,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",

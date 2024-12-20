@@ -1,5 +1,5 @@
 {
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "focusNewTab": true,
   "defaultViewMode": "preview",
   "propertiesInDocument": "hidden"

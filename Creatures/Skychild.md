@@ -98,6 +98,7 @@ Thus, they aim for this high goal— it is their life goal to go through the Eye
 
 Being the ones aiming for the Eye, they have a brash, confident flair about themselves. That confidence fades somewhat upon *reaching* Eden, but is still quite evident.
 They tend to want to face danger without thought, which sometimes lands them in situations that they don't necessarily want to be in, or that are dangerous.
+The Skyspeak dialect of the Normal skykid is that of the human. Its 
 ### DnD particulars
 
 - Alignment: Neutral Good
@@ -106,4 +107,5 @@ They tend to want to face danger without thought, which sometimes lands them in 
 - Hit dice: (2d4 + 1d6)
 ## Forest
 ### Mask
+The Forest clan mask is like that of the Normal skykid, but due to plenty of 
 
