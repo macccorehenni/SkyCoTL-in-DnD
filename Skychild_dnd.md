@@ -1,27 +1,4 @@
 
-# Table of Contents
-
-1.  [Common skills and descriptions](#org6fd972b)
-    1.  [Masks](#org546a58f)
-    2.  [Skychildren and their relationship to the Overseer and the Forgotten Realms](#orga5c7953)
-    3.  [Capes and stars](#org0987284)
-    4.  [Languages](#org2b924ba)
-    5.  [Common abilities](#orgaef2a75)
-        1.  [Flight](#org20b7918)
-        2.  [Candle](#orgfe8885c)
-        3.  [Honk](#org75461c4)
-    6.  [DnD particulars](#orgc279612)
-2.  [Clans](#org2f90ffa)
-    1.  [Normal](#org724ed24)
-        1.  [Mask](#org323ffde)
-        2.  [Bonds](#org2a7ab36)
-        3.  [Personality](#org1681efc)
-        4.  [DnD particulars](#org54a0f88)
-
-
-
-<a id="org6fd972b"></a>
-
 # Common skills and descriptions
 
 

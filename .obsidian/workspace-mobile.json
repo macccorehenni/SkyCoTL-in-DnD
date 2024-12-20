@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Skychild_dnd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Skychild_dnd"
+            }
+          },
+          {
+            "id": "e40526d008a06f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skychild_dnd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skychild_dnd"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,9 +96,19 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "d81a247c72dc935a",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Spaces"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "37ff8538d34e5e41",
@@ -95,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Skychild_dnd.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Skychild_dnd.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -128,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md"
+            "file": "Skychild_dnd.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -148,12 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa4dda09aa01764a",
+  "active": "e40526d008a06f35",
   "lastOpenFiles": [
+    "Tags",
+    "Skychild_dnd.md",
     "Test.md",
     "Skychild_dnd.pdf",
     "Skychild_dnd.html",
-    "Skychild_dnd.md",
     "Skychild_dnd.org~",
     "Skychild_dnd.html~",
     "Skychild_dnd.odt",
