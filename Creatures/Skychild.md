@@ -98,7 +98,7 @@ Thus, they aim for this high goal— it is their life goal to go through the Eye
 
 Being the ones aiming for the Eye, they have a brash, confident flair about themselves. That confidence fades somewhat upon *reaching* Eden, but is still quite evident.
 They tend to want to face danger without thought, which sometimes lands them in situations that they don't necessarily want to be in, or that are dangerous.
-The Skyspeak dialect of the Normal skykid is that of the human. Its 
+The Skyspeak dialect of the Normal skykid is that of the human. Its harsh timbre and guttural sound emphasize their sometimes unplesant demeanor.
 ### DnD particulars
 
 - Alignment: Neutral Good
