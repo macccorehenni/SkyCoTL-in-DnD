@@ -2,5 +2,6 @@
   "cssTheme": "Creme brulee",
   "interfaceFontFamily": "Baskerville,Times New Roman",
   "textFontFamily": "Andale Mono,Courier New",
-  "accentColor": "#38571a"
+  "accentColor": "#38571a",
+  "theme": "obsidian"
 }

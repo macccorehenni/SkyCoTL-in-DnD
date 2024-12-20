@@ -61,7 +61,7 @@ At any point (in or out of combat), the Skychild may expend a star[1] on their c
 
 At any point in time outside of combat, a skykid can raise a candle. If this is done, it satisfies two goals:
 
-- It acts as an vanilla candle, according to the description in Basic Rules (2014).
+- It acts as an vanilla candle, according to the description in Basic Rules (2014):
 	 For 1h, a candle sheds bright light for 5ft and dim light 5ft more.
 - It asserts friendship to allied creatures for the intent of recharging stars.
 
@@ -107,5 +107,5 @@ The Skyspeak dialect of the Normal skykid is that of the human. Its harsh timbre
 - Hit dice: (2d4 + 1d6)
 ## Forest
 ### Mask
-The Forest clan mask is like that of the Normal skykid, but due to plenty of 
+The Forest clan mask is like that of the Normal skykid, but due to plenty of time in the forest, Forest skykid have scars crossing their face, suggesting vines like those found in the lower areas of their home, the Forest realm. These vines circle around a small diamond aro
 
