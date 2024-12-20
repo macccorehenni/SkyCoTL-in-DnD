@@ -1,0 +1,169 @@
+
+# Table of Contents
+
+1.  [Common skills and descriptions](#org6fd972b)
+    1.  [Masks](#org546a58f)
+    2.  [Skychildren and their relationship to the Overseer and the Forgotten Realms](#orga5c7953)
+    3.  [Capes and stars](#org0987284)
+    4.  [Languages](#org2b924ba)
+    5.  [Common abilities](#orgaef2a75)
+        1.  [Flight](#org20b7918)
+        2.  [Candle](#orgfe8885c)
+        3.  [Honk](#org75461c4)
+    6.  [DnD particulars](#orgc279612)
+2.  [Clans](#org2f90ffa)
+    1.  [Normal](#org724ed24)
+        1.  [Mask](#org323ffde)
+        2.  [Bonds](#org2a7ab36)
+        3.  [Personality](#org1681efc)
+        4.  [DnD particulars](#org54a0f88)
+
+
+
+<a id="org6fd972b"></a>
+
+# Common skills and descriptions
+
+
+<a id="org546a58f"></a>
+
+## Masks
+
+The Skychildren (plural; singular *Skychild*, can also be used as an plural when talking of clans) are a species of construct formed out of clay. They were created by an entity (known only to them as the *Overseer*) after the corruption of their world. They posess a mask, which none are known to take off willingly. Those who attempt to take off a Skychild's mask have not lived to see the tale. It's said different clans of Skychildren have different masks. Each different mask repersents its own attributes. However, due to strife between the clans of the Skychildren the Skychild masks are most commonly eschewed in favor of that of the Normal Skychild.
+
+
+<a id="orga5c7953"></a>
+
+## Skychildren and their relationship to the Overseer and the Forgotten Realms
+
+Most Skychildren believe in the Overseer as their deity. While certain exceptions exist, most Skychildren are transplants in the Realms, being attacked after attempting to reach the Overseer, an dangerous task only taken on by the bravest Skychildren, the Trailblazers. The Trailblazers that are able to complete this adventure become known as the Ascended Skychildren. Those who are not, however, are part of the Eden clan, named after the land where the Overseer extends his corrupt hand.
+
+
+<a id="org0987284"></a>
+
+## Capes and stars
+
+Capes are another way to distinguish Skychildren, although they are more varied within clans than masks. The cape allows identification of the age and social status of a Skykid. The more stars that a Skychild has, the more mobile and powerful they are. These stars also indicate the amount of *Winged Light* that the Skychild has, its indication of vitality. The amount of stars are directly correlated to its character level.
+
+The stars are expended whenever an Skychild gets wet, whether by rain or by spell-driven means, or when they use Flight or fail an DEX check. If they would normally lose a star, but have none, they cannot use any Flight or other star-based skills. If they are wet for more than an hour or have failed a check with no stars, they gain an exaustion level.  Stars are regained via these methods:
+
+-   Rest (roll 1d4+ clan hit dice/level, rounded up)
+-   Landing near an allied, friendly creature for at least two turns
+-   Landing near an open flame for two turns
+
+In the case of the latter two, a star is regained every time the condition is affected.
+
+Given that they have been corrupted, and thus can no longer collect Winged Light, Eden skychildren cannot have a cape or stars.
+
+
+<a id="org2b924ba"></a>
+
+## Languages
+
+The skykid knows Common, Auran and Skyspeak.
+
+Auran is the equivalent of a language such as Elvish or Gnomish. It's rarely used except for ceremonial uses.
+
+Skyspeak is used much more often, and is considered to be the native tongue of the Skychild. It is compromised of basic honks and chirps, and has different dialects depending on the clan.
+
+
+<a id="orgaef2a75"></a>
+
+## Common abilities
+
+
+<a id="org20b7918"></a>
+
+### Flight
+
+At any point (in or out of combat), the Skychild may expend a star[1] on their cape to fly up to 10 feet in the air vertically, then 30 feet horizontally.
+
+([1] See ["Capes and stars"](#org0987284) to learn what a star is.)
+
+
+<a id="orgfe8885c"></a>
+
+### Candle
+
+At any point in time outside of combat, a skykid can raise a candle. If this is done, it satisfies two goals:
+
+-   It acts as an vanilla candle, according to the description in Basic Rules (2014).
+    -   For 1h, a candle sheds bright light for 5ft and dim light 5ft more.
+-   It asserts friendship to allied creatures for the intent of recharging stars.
+
+It must be recharged after 30m/4 turns (out of/in combat) when withdrawn or otherwise expired. Notably, beacuse they don't have Light, Eden skychildren are not able to use this skill.
+
+
+<a id="org75461c4"></a>
+
+### Honk
+
+A skykid can break stealth to find any characters who are allied within a visible cone range of 5ft.
+
+
+<a id="orgc279612"></a>
+
+## DnD particulars
+
+Class: Cleric
+
+Size: Medium
+
+CR: 5
+
+AC: 1d6
+
+Starting equipment:
+
+-   Cape (except Eden)
+-   Candle (except Eden)
+-   Cleric's starting equipment (except the candle and vestements)
+
+Deity: the Overseer
+
+
+<a id="org2f90ffa"></a>
+
+# Clans
+
+
+<a id="org724ed24"></a>
+
+## Normal
+
+
+<a id="org323ffde"></a>
+
+### Mask
+
+As mentioned in [Masks](#org546a58f), the Normal clan mask is the one that most Skychildren  wear. It's simple, being simply a clay mask with holes on the forehead and lower. The forehead hole is shaped like an diamond, and is where their light is kept. The holes form a basic face, and it is otherwise plain.
+
+
+<a id="org2a7ab36"></a>
+
+### Bonds
+
+This clan is the one most likely to ascend; that is, they don't stick out as potential threats to the Overseer's minions tasked with guarding his form.
+
+Thus, they aim for this high goal— it is their life goal to go through the Eye of Eden and defeat the Overseer.
+
+
+<a id="org1681efc"></a>
+
+### Personality
+
+Being the ones aiming for the Eye, they have a brash, confident flair about themselves. That confidence fades somewhat upon *reaching* Eden, but is still quite evident.
+
+They tend to want to face danger without thought, which sometimes lands them in situations that they don't necessarily want to be in, or are dangerous.
+
+
+<a id="org54a0f88"></a>
+
+### DnD particulars
+
+-   Alignment: Neutral Good
+-   Sigil: The Sigil of the Trailblazer (an flame on an circle)
+-   Starting equipment (in addition to the basics in the [common equipment list](#orgc279612)): an amulet of their deity, which depends on which realm they came from or when they were a Moth
+
+-Hit dice: (2d4 + 1d6)
+
