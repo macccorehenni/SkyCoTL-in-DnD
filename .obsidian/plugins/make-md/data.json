@@ -31,7 +31,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -46,7 +46,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "Creatures",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -55,7 +57,9 @@
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "Creatures"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
@@ -64,7 +68,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
