@@ -3,5 +3,5 @@
   "focusNewTab": true,
   "defaultViewMode": "preview",
   "propertiesInDocument": "hidden",
-  "spellcheck": true
+  "spellcheck": false
 }
