@@ -2,5 +2,6 @@
   "showInlineTitle": true,
   "focusNewTab": true,
   "defaultViewMode": "preview",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "spellcheck": false
 }

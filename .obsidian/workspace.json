@@ -11,10 +11,14 @@
             "id": "0128ca9f808ad241",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Skychild.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Skychild"
             }
           }
         ]
@@ -68,12 +72,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "64636d3362005ca8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b14f835914a8c63d",
@@ -148,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63b1c150aa43ff7d",
+  "active": "0128ca9f808ad241",
   "lastOpenFiles": [
     "Test.md"
   ]
