@@ -90,5 +90,7 @@ The Skyspeak dialect of the Normal skykid is that of the human. Its harsh timbre
 ### Mask
 The Forest clan mask is like that of the Normal skykid, but due to plenty of time in the forest, Forest skykid have scars crossing their face, suggesting vines like those found in the lower areas of their home, the Forest realm. These vines circle around a small diamond, commonly thought of as a nose, although the Sky’s scholars have not reached an agreement on this. 
 ### Bonds
-The realm of Forest is very much a wet one— the Dark Dragon, chief of the Overseer’s minions, took all of the rain, which Skychildren hate, and dumped it here for the Skychildren to “enjoy”. They, thus, want to rid this realm of as much water as they can. The trees help, but only to a point. Their goals in life are thusly to avenge their fallen brethren. They believe that the best way to do this is to replant the trees and fly under them for solace. Some more brave Forest skykid venture out to the Wasteland to help the Normal Skychildren 
+The realm of Forest is very much a wet one— the Dark Dragon, chief of the Overseer’s minions, took all of the rain, which Skychildren hate, and dumped it here for the Skychildren to “enjoy”. They, thus, want to rid this realm of as much water as they can. The trees help, but only to a point. Their goals in life are thusly to avenge their fallen brethren. They believe that the best way to do this is to replant the trees and fly under them for solace. Some more brave Forest skykid venture out to the Wasteland to help the Normal Skychildren. 
+### Personality
+Shyer then the [[Skychild#Normal|Normal]] skykid, they are still ones who will not 
 

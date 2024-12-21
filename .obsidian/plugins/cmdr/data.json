@@ -2,7 +2,20 @@
   "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
+  "editorMenu": [
+    {
+      "id": "editor:fold-more",
+      "icon": "lucide-fold-vertical",
+      "name": "Flatten",
+      "mode": "any"
+    },
+    {
+      "id": "editor:fold-less",
+      "icon": "lucide-unfold-vertical",
+      "name": "Expand",
+      "mode": "any"
+    }
+  ],
   "fileMenu": [
     {
       "id": "obsidian-git:pull",
