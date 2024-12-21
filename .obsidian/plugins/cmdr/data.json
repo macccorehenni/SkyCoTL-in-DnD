@@ -19,7 +19,13 @@
     {
       "id": "obsidian-git:push",
       "icon": "lucide-git-merge",
-      "name": "sync",
+      "name": "Sync",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-spellcheck",
+      "icon": "lucide-check-check",
+      "name": "Spell",
       "mode": "any"
     }
   ],

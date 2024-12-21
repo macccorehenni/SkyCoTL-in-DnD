@@ -64,7 +64,7 @@ Starting equipment:
 
 -   Cape (except Eden)
 -   Candle (except Eden)
--   Cleric's starting equipment (except the candle and vestements)
+-   Cleric's starting equipment (except the candle and vestments)
 
 Deity: the Overseer
 # Clans
@@ -79,7 +79,7 @@ Thus, they aim for this high goal— it is their life goal to go through the Eye
 
 Being the ones aiming for the Eye, they have a brash, confident flair about themselves. That confidence fades somewhat upon *reaching* Eden, but is still quite evident.
 They tend to want to face danger without thought, which sometimes lands them in situations that they don't necessarily want to be in, or that are dangerous.
-The Skyspeak dialect of the Normal skykid is that of the human. Its harsh timbre and guttural sound emphasize their sometimes unplesant demeanor.
+The Skyspeak dialect of the Normal skykid is that of the human. Its harsh timbre and guttural sound emphasize their sometimes unpleasant demeanor.
 ### DnD particulars
 
 - Alignment: Neutral Good
@@ -90,5 +90,5 @@ The Skyspeak dialect of the Normal skykid is that of the human. Its harsh timbre
 ### Mask
 The Forest clan mask is like that of the Normal skykid, but due to plenty of time in the forest, Forest skykid have scars crossing their face, suggesting vines like those found in the lower areas of their home, the Forest realm. These vines circle around a small diamond, commonly thought of as a nose, although the Sky’s scholars have not reached an agreement on this. 
 ### Bonds
-The realm of Forest is very much a wet one— the Dark Dragon, chief of the overseer’s minions, took all of the rain, which Skychildren hate, and dumped it here for the Skychildren to “enjoy”. They, thus, want to rid this realm of as much water as they can. The trees help, but only to a point. 
+The realm of Forest is very much a wet one— the Dark Dragon, chief of the Overseer’s minions, took all of the rain, which Skychildren hate, and dumped it here for the Skychildren to “enjoy”. They, thus, want to rid this realm of as much water as they can. The trees help, but only to a point. Their goals in life are thusly to avenge their fallen brethren. They believe that the best way to do this is to 
 
