@@ -1,0 +1,19 @@
+{
+  "pluginCmdr": [
+    {
+      "id": "open-plugin-settings",
+      "name": "Open Plugin Settings",
+      "commandName": "Plugins in menus"
+    },
+    {
+      "id": "cmdr",
+      "name": "Commander",
+      "commandName": "Button settings"
+    },
+    {
+      "id": "calendarium",
+      "name": "Calendarium",
+      "commandName": "Calendar"
+    }
+  ]
+}

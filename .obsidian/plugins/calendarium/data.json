@@ -1,0 +1,401 @@
+{
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Sky realm",
+      "description": null,
+      "id": "ID_28e89b7ab96b",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Respite",
+            "id": "ID_3b597af979e9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Weekbreak",
+            "id": "ID_a8eaf9aa0a08",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Working",
+            "id": "ID_ca3b8a79b83b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Celebration",
+            "id": "ID_5b1b4bf868ea",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Harvestday",
+            "id": "ID_1a397a2b4b6a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Week-fall",
+            "id": "ID_aa291bbb082b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Piety",
+            "id": "ID_896ada58b869",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Year-break",
+            "type": "month",
+            "length": 35,
+            "id": "ID_88da590ae918",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Friendship",
+            "type": "month",
+            "length": 40,
+            "id": "ID_d88a4af8b829",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Rain-fall",
+            "type": "month",
+            "length": 21,
+            "id": "ID_484b39593aab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Bloom",
+            "type": "month",
+            "length": 35,
+            "id": "ID_fbf8392b780a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Rain-deluge",
+            "type": "month",
+            "length": 40,
+            "id": "ID_9bf85bdb38f9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Festival",
+            "type": "intercalary",
+            "length": 7,
+            "id": "ID_5a5b0b78590a",
+            "interval": 3,
+            "offset": 5
+          },
+          {
+            "name": "Attack",
+            "type": "month",
+            "length": 21,
+            "id": "ID_f969797a894a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Leaves-fall",
+            "type": "month",
+            "length": 21,
+            "id": "ID_da989beb6bda",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Celebration",
+            "type": "month",
+            "length": 31,
+            "id": "ID_7b0bbabb0b38",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Darkness-fall",
+            "type": "month",
+            "length": 35,
+            "id": "ID_7b9bcb684b89",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Dark",
+            "type": "month",
+            "length": 30,
+            "id": "ID_39a9fb29c999",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Year-fall",
+            "type": "month",
+            "length": 35,
+            "id": "ID_ba6a49f89bbb",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "First moon",
+            "cycle": null,
+            "offset": 0,
+            "faceColor": "#973838",
+            "shadowColor": "#898cbb",
+            "id": "ID_ca3ad8da49cb"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "name": "Day of Forgiving",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 3
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 60
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              }
+            ],
+            "timespan": 1,
+            "intercalary": false,
+            "numbered": true,
+            "after": 7,
+            "offset": 0,
+            "id": "ID_4bbbdb49782b"
+          },
+          {
+            "name": "Day of Harvest",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 60
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 3
+              }
+            ],
+            "timespan": 4,
+            "intercalary": false,
+            "numbered": true,
+            "after": 1,
+            "offset": 0,
+            "id": "ID_1aea8828babb"
+          }
+        ],
+        "eras": [
+          {
+            "id": "ID_ba797abb2b09",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Before the Darkness",
+            "description": "",
+            "format": "{{era_year}} BD",
+            "date": {
+              "year": 0,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_49bbcb19ba58",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "After the Darkness",
+            "description": "<p>The day the Overseer took control over the Skykid domain.<br></p>",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 0,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          }
+        ]
+      },
+      "current": {
+        "year": 200,
+        "month": 0,
+        "day": 1
+      },
+      "events": [
+        {
+          "name": "Day of Renewal",
+          "description": "<p>The day Aviary— as well as the rest of the new Skychild world— was born<br></p>",
+          "id": "2824574",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 7,
+            "year": 1,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "<p>The spring equinox is when the day and the night are equally as long, and are getting longer.</p>",
+          "id": "2824575",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "<p>\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.</p>",
+          "id": "2824576",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Fall",
+          "description": "",
+          "id": "2824577",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "<p>The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.</p>",
+          "id": "2824578",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Heroes arrive",
+          "description": "",
+          "id": "2824579",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 200,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_28e89b7ab96b",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": "#event",
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

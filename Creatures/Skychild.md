@@ -3,8 +3,8 @@ tags:
   - world-building
 alias: Common Skills and Descriptions - Skychild
 sticker: lucide//bird
-updated_at: 2024-12-21T17:59:01.095-08:00
-edited_seconds: 30
+updated_at: 2024-12-21T20:18:54.191-08:00
+edited_seconds: 40
 ---
 - [ ] 
 # Common Skills and Descriptions
