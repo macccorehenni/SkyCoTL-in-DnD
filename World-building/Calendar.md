@@ -1,6 +1,6 @@
 ---
-updated_at: 2024-12-21T20:44:40.587-08:00
-edited_seconds: 170
+updated_at: 2024-12-21T20:45:40.869-08:00
+edited_seconds: 200
 alias: Skyrealm calendar
 linter-yaml-title-alias: Skyrealm calendar
 tags: world-building
@@ -11,5 +11,7 @@ The calendar is divided into eleven months (with a special week every three year
 
 That made no sense?
 
-Well, let's break it down by month.
-## Year-break 
+Well, let’s break it down by month.
+
+## Year-break
+Being the first month of the year, Year-break is naturally one of the longest.
