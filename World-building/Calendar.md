@@ -1,6 +1,6 @@
 ---
-updated_at: 2024-12-21T20:45:40.869-08:00
-edited_seconds: 200
+updated_at: 2024-12-22T06:56:28.517-08:00
+edited_seconds: 220
 alias: Skyrealm calendar
 linter-yaml-title-alias: Skyrealm calendar
 tags: world-building
@@ -14,4 +14,4 @@ That made no sense?
 Well, let’s break it down by month.
 
 ## Year-break
-Being the first month of the year, Year-break is naturally one of the longest.
+Being the first month of the year, Year-break is naturally one of the longest. It's five seven-day weeks
