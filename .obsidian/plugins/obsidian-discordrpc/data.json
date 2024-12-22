@@ -1,0 +1,10 @@
+{
+  "showVaultName": true,
+  "showCurrentFileName": true,
+  "showPopups": true,
+  "customVaultName": "SkyDnD",
+  "showFileExtension": true,
+  "useLoadedTime": false,
+  "connectOnStart": true,
+  "autoHideStatusBar": false
+}
