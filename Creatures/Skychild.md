@@ -116,5 +116,6 @@ The realm of Forest is very much a wet one—the Dark Dragon, chief of the Overs
 
 ### Personality
 
-Shyer then the [[Skychild#Normal|Normal]] skykid, they are still ones who will not back down from a fight. 
+Shyer then the [[Skychild#Normal|Normal]] skykid, they are still ones who will not back down from a fight. They also speak out whenever tourists (or visitors from the Forgotten Realms) misuse the land on which they have sustained for centuries.
+
 

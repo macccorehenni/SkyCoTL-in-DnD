@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b14f835914a8c63d",
@@ -154,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "color-cycler:Cycle accent color": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,

@@ -3,5 +3,7 @@
   "auto-file-organizer",
   "cmdr",
   "obsidian-plugin-toc",
-  "obsidian-linter"
+  "obsidian-linter",
+  "color-cycler",
+  "double-switch"
 ]
