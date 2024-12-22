@@ -1,11 +1,12 @@
 ---
 tags:
   - world-building
-alias: Common Skills and Descriptions
-  - Skychild
+alias: Common Skills and Descriptions - Skychild
 sticker: lucide//bird
+updated_at: 2024-12-21T17:59:01.095-08:00
+edited_seconds: 30
 ---
-
+- [ ] 
 # Common Skills and Descriptions
 
 ## Masks
@@ -116,6 +117,6 @@ The realm of Forest is very much a wet one—the Dark Dragon, chief of the Overs
 
 ### Personality
 
-Shyer then the [[Skychild#Normal|Normal]] skykid, they are still ones who will not back down from a fight. They also speak out whenever tourists (or visitors from the Forgotten Realms) misuse the land on which they have sustained for centuries.
+Shyer then the [[Skychild#Normal|Normal]] skykid, they are still ones who will not back down from a fight. They also speak out whenever tourists (or visitors from the Forgotten Realms) misuse the land on which they have sustained for centuries. They tend to get haughty when
 
 
